@@ -3,11 +3,11 @@
 
 <p align="left"> <a href="https://twitter.com/im__divyansh" target="blank"><img src="https://img.shields.io/twitter/follow/im__divyansh?logo=twitter&style=for-the-badge" alt="im__divyansh" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [www.divyanshjindal.netlify.app](www.divyanshjindal.netlify.app)
+- 👨‍💻 All of my projects are available at [https://divyanshjindal.netlify.app/](https://divyanshjindal.netlify.app/)
 
 - 📫 How to reach me **divyanshjindal18@gmail.com**
 
-- 📄 Know about my experiences [bit.ly/divyanshjindal](bit.ly/divyanshjindal)
+- 📄 Know about my experiences [https://bit.ly/divyanshjindal](https://bit.ly/divyanshjindal)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
